@@ -1,6 +1,7 @@
 # Password-Strength-Checker
 
---
+---
+
 https://anuhari872-rgb.github.io/Password-Strength-Checker/
 
 
